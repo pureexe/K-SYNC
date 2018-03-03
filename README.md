@@ -1,2 +1,0 @@
-# K-SYNC
-K-SYNC
