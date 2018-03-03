@@ -1,4 +1,4 @@
-\KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
+\KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c--|False|
 \codecs\AviSynth.dll|d4eea54b207c4393f6a130355232629ba55fa893|False|
 \codecs\DevIL.dll|3cea1ccd379691f34b58863e931ec85be55f4427|False|
 \codecs\ffmpeg.exe|5124e5d829a651a470b368a06002b36025332920|False|
@@ -70,4 +70,4 @@
 \codecs\filters\VSFilter\VSFilterMod.dll|1dfb057f51000fdf7e4819c9cedf64ac7da5a519|False|
 \codecs\filters\VSFilter\XY-VSFilter.dll|991fca9a90e7a92b044c59e86d69e525895dc22a|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
-\language\language.zip|e1fd2e037c6d68d0ba2542b211e58ea1cca2ea1b|False|
+\language\language.zip|e1fd2e037c6d68d0ba2542b211e58ea1cca2ea1b--|False|
