@@ -71,4 +71,5 @@
 \codecs\filters\VSFilter\XY-VSFilter.dll|991fca9a90e7a92b044c59e86d69e525895dc22a|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
 \language\language.zip|e1fd2e037c6d68d0ba2542b211e58ea1cca2ea1b|False|
+\redists\vcredist_x86_2013.exe|df7f0a73bfa077e483e51bfb97f5e2eceedfb6a3|True|
 \redists\vcredist_x86_2012_u4.exe|96b377a27ac5445328cbaae210fc4f0aaa750d3f|True|\redists\vcredist_x86_2012_u4.exe /passive /norestart
