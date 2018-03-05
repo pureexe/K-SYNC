@@ -73,4 +73,7 @@
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
 \language\language.zip|e1fd2e037c6d68d0ba2542b211e58ea1cca2ea1b|False|
 \redists\klcp_mega_unattended.ini|23a2b2969230350556ed060e7a2b9046ac825035|False|
-\redists\K-Lite_Codec_Pack_1400_Mega.exe|7f68b3b00d67cd9690be2a08f5940e17148db048|True|/silent /norestart /LoadInf=.\redists\klcp_mega_unattended.ini
+\redists\vcredist_x86_2012.exe|96B377A27AC5445328CBAAE210FC4F0AAA750D3F|True|/passive /norestart
+\redists\vcredist_x86_2013.exe|DF7F0A73BFA077E483E51BFB97F5E2ECEEDFB6A3|True|/install /passive /norestart
+\redists\vcredist_x86_2017.exe|735BFA44D4B475FAFD175BA0E1CED21888C7A2DB|True|/install /passive /norestart
+\redists\K-Lite_Codec_Pack_Mega.exe|7f68b3b00d67cd9690be2a08f5940e17148db048|True|/silent /norestart /LoadInf=.\redists\klcp_mega_unattended.ini
