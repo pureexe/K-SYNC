@@ -73,4 +73,4 @@
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
 \language\language.zip|e1fd2e037c6d68d0ba2542b211e58ea1cca2ea1b|False|
 \redists\klcp_mega_unattended.ini|23a2b2969230350556ed060e7a2b9046ac825035|False|
-\redists\K-Lite_Codec_Pack_1400_Mega.exe|7f68b3b00d67cd9690be2a08f5940e17148db048|True|/silent /norestart /LoadInf=\".\redists\klcp_mega_unattended.ini\"
+\redists\K-Lite_Codec_Pack_1400_Mega.exe|7f68b3b00d67cd9690be2a08f5940e17148db048|True|/silent /norestart /LoadInf=.\redists\klcp_mega_unattended.ini
