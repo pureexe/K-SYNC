@@ -1,4 +1,4 @@
-\KonayukiPlus.exe|26F90260EFE35EBD6874A779F62FD7CF7B27638D|False|
+\KonayukiPlus.exe|26f90260efe35ebd6874a779f62fd7cf7b27638d|False|
 \KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
 \codecs\AviSynth.dll|d4eea54b207c4393f6a130355232629ba55fa893|False|
 \codecs\DevIL.dll|3cea1ccd379691f34b58863e931ec85be55f4427|False|
