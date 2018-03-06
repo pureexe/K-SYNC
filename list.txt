@@ -72,5 +72,6 @@
 \codecs\filters\VSFilter\XY-VSFilter.dll|991fca9a90e7a92b044c59e86d69e525895dc22a|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
 \language\language.zip|e1fd2e037c6d68d0ba2542b211e58ea1cca2ea1b|False|
-\redists\K-Lite_Codec_Pack_Mega.exe|7f68b3b00d67cd9690be2a08f5940e17148db048|True|/silent /norestart /LoadInf=.\redists\klcp_mega_unattended.ini
+\redists\K-Lite_Codec_Pack_Mega.exe|7f68b3b00d67cd9690be2a08f5940e17148db048|False|
 \redists\klcp_mega_unattended.ini|c482656649ae11b0618a28642c600fb0099990d8|False|
+\redists\MPC-HC_Installer.exe|ce0b6f3a96dec4b37ee47916536ba7700951fb8c|True|
