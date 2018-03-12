@@ -1,9 +1,10 @@
-\KonayukiPlus.exe|402b3e6cc4e4b9126f223972b37b3746863fc716|False|
+\changelogs.txt|e3442f2932b4c77c82564de66626727b07a53f53|False|
+\KonayukiPlus.exe|b419f44a064f3e0c98898401eba76b19c63d044d|False|
 \KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
 \codecs\AviSynth.dll|7ab1026ec4f1e5c6aa55c29faaaccb3fd46158b3|False|
 \codecs\DevIL.dll|8898679a803b98725b6e79d93989bcc44a0b0e60|False|
-\codecs\ffmpeg.exe|706876bc541b54cfd33a16eb91af060feb3ed36c|False|
-\codecs\ffplay.exe|3f117b849521799e1d63b0cdb111fe70d5eb98c9|False|
+\codecs\ffmpeg.exe|c82ba4722d193ba5a358d61879d94d38ac7ba683|False|
+\codecs\ffplay.exe|a49ff8dffefe244a3ec35672cce3be2fe1ad253c|False|
 \codecs\MediaInfo.dll|d311c9daf8fd7371e24b90f6ebfe5193bff32bd6|False|
 \codecs\assets\Display.jpg|bc2adf5313fee17f1e44a11d1873da2d8a471301|False|
 \codecs\filters\Decomb.dll|70f9165f8c4e3b18d62b722e6d034414e99d7aa1|False|

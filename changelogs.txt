@@ -1,0 +1,71 @@
+[ V=1.0.6645.41295 / API=2018.03.12.22.24.12 ]
+Date : 12/03/2018
+
+#NEW
+- Add changelog in the information menu.
+
+#UPDATE
+- Update FFmpeg to "20180312-939440a"
+- Update FFplay to "20180312-939440a"
+
+#CHANGE
+- Minor change in API code.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ V=1.0.6645.28430 / API=2018.03.12.15.28.50 ]
+Date : 12/03/2018
+
+#UPDATE
+- Update from .Net Framework 4.6.2 to 4.7.1
+
+#CHANGE
+- Fully support 64Bit from the test result show 50% increase in performance compare to 32Bit.
+- Change C++ Redistributable to 64Bit version.
+- Change "Subtitle Remover" status to coming soon.
+- Remove "Cross-Interlace" feature.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ V=1.0.6643.35940 / API=2018.03.06.21.34.15 ]
+Date : 11/03/2018
+
+#NEW
+- Add duplicate button in queue's context menu.
+- Add "After Completion" system in setting.
+- Add support CPU's AVX2 instruction with "Resizers" algorithm.
+- Add show status in the right-list. (From JEDAi Encoder Request)
+- Support Intel GPU HEVC Encoder both 8Bit and 10Bit. (Special Thanks to Pure's app)
+
+#UPDATE
+- Update to AviSynth+ r2636-MT.
+- Update "Blur, Sharpen" algorithm with CPU's AVX2, SSE2 instruction speed up 1.35x to 1.5x on Intel i7-7770.
+- Speed up converting from RGB24/RGB48 to Planar RGB(A) - SSSE3, approx. doubled fps.
+- Enhanced VfW exporting Y416 (YUV444P16) with CPU's SSE2 instruction.
+
+#CHANGE
+- Add timestamp at the end of output filename to prevent overwrite duplicate filename. (From PeaLz-FS Request)
+- Optimize update system algorithm, decrease the load time.
+
+#FIX
+- Fix can't import file with uppercase extension letter. (Special Thanks to RubyFansub)
+- Fix current setting not the refer to the select index of the list.
+- Fix swap between FPS and speed.
+- Fix update system bug.
+- Fix FFmpeg AAC audio broken sound. (Special Thanks to PeaLz-FS)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ V=1.0.6639.40274 / API=2018.03.06.21.34.15 ]
+Date : 06/03/2018
+
+#NEW
+- Introduce encode by queues system.
+- Add ability to save queues to project file as "Konayuki Project File (.kpj)"
+- Add preview while encoding feature in the setting. (Default: Disable)
+- Add GUI guide system to preview window.
+- Add Konayuki Plus encode's setting to output file's comment.
+- Add multi-language tooltip.
+- Add MediaInfo print-out in queue's context menu.
+- Support subtitle filename for all languages.
+- Support AMD GPU Encoder both H.264 and HEVC. (Special Thanks to WindSky-Fs)
