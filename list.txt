@@ -1,5 +1,5 @@
-\changelogs.txt|817eb63d9c654ffabffc17bf600d3092af509b10|False|
-\KonayukiPlus.exe|d5134cce31f26cb6e923c6c9c6f13ef0a96743b7|False|
+\changelogs.txt|0d2d5cb7dd89093685003ba9306bc0078ef512a8|False|
+\KonayukiPlus.exe|5991247b10535b3cae93e6bad642add2eaede5f6|False|
 \KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
 \codecs\AviSynth.dll|7ab1026ec4f1e5c6aa55c29faaaccb3fd46158b3|False|
 \codecs\DevIL.dll|8898679a803b98725b6e79d93989bcc44a0b0e60|False|
