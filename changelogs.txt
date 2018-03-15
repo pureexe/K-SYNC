@@ -1,3 +1,29 @@
+[ V=1.0.6648.29184 / API=2018.03.15.14.46.50 ]
+Date : 15/03/2018
+
+#NEW
+- Show progress while indexing.
+- Add ability to select audio track.
+- Add Software Encoder HEVC 10-bit
+- Add "How to Use" button in the information menu. [Website Currently Unavailable]
+- Support insertion of Intro/EndCard to the source audio with multi-channels up-to 10 channels. [From Onigiri-FS Request]
+
+#UPDATE
+- Update FFmpeg to "20180314-f706cdd"
+- Update FFplay to "20180314-f706cdd"
+
+#CHANGE
+- Minimize the properties output.
+
+#FIX
+- Fix conflict with another program that take control of codec. [Special Thanks to JEDAi Encoder]
+- Fix FFmpeg output file's MediaInfo with typos.
+- Fix critical bug that consuming CPU when use Intro/EndCard video.
+- Fix can't encode if not focusing to the list.
+- Fix can't remove file from the list if the file was deleted after encoding error.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 [ V=1.0.6646.2709 / API=2018.03.12.22.24.12 ]
 Date : 13/03/2018
 
@@ -5,7 +31,7 @@ Date : 13/03/2018
 - Change folder name "language" to "languages".
 
 #FIX
-- Fix changelog showing window bug.
+- Fix changelog window bug.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,8 +71,8 @@ Date : 11/03/2018
 - Add duplicate button in queue's context menu.
 - Add "After Completion" system in setting.
 - Add support CPU's AVX2 instruction with "Resizers" algorithm.
-- Add show status in the right-list. (From JEDAi Encoder Request)
-- Support Intel GPU HEVC Encoder both 8Bit and 10Bit. (Special Thanks to Pure's app)
+- Add show status in the right-list. [From JEDAi Encoder Request]
+- Support Intel GPU HEVC Encoder both 8Bit and 10Bit. [Special Thanks to Pure's app]
 
 #UPDATE
 - Update to AviSynth+ r2636-MT.
@@ -55,15 +81,15 @@ Date : 11/03/2018
 - Enhanced VfW exporting Y416 (YUV444P16) with CPU's SSE2 instruction.
 
 #CHANGE
-- Add timestamp at the end of output filename to prevent overwrite duplicate filename. (From PeaLz-FS Request)
+- Add timestamp at the end of output filename to prevent overwrite duplicate filename. [From PeaLz-FS Request]
 - Optimize update system algorithm, decrease the load time.
 
 #FIX
-- Fix can't import file with uppercase extension letter. (Special Thanks to RubyFansub)
+- Fix can't import file with uppercase extension letter. [Special Thanks to RubyFansub]
 - Fix current setting not the refer to the select index of the list.
 - Fix swap between FPS and speed.
 - Fix update system bug.
-- Fix FFmpeg AAC audio broken sound. (Special Thanks to PeaLz-FS)
+- Fix FFmpeg AAC audio broken sound. [Special Thanks to PeaLz-FS]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -72,11 +98,11 @@ Date : 06/03/2018
 
 #NEW
 - Introduce encode by queues system.
-- Add ability to save queues to project file as "Konayuki Project File (.kpj)"
-- Add preview while encoding feature in the setting. (Default: Disable)
+- Add ability to save queues to project file as "Konayuki Project File [.kpj]"
+- Add preview while encoding feature in the setting. [Default: Disable]
 - Add GUI guide system to preview window.
-- Add Konayuki Plus encode's setting to output file's comment.
+- Add KONAYUKI PLUS encode's setting to output file's comment.
 - Add multi-language tooltip.
 - Add MediaInfo print-out in queue's context menu.
 - Support subtitle filename for all languages.
-- Support AMD GPU Encoder both H.264 and HEVC. (Special Thanks to WindSky-Fs)
+- Support AMD GPU Encoder both H.264 and HEVC. [Special Thanks to WindSky-Fs]
