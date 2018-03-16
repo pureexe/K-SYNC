@@ -1,3 +1,21 @@
+[ V=1.0.6649.30988 / API=2018.03.15.14.46.50 ]
+Date : 16/03/2018
+
+#NEW
+- Introducing "KONAYUKI INFO" instead of plain Notepad.
+
+#CHANGE
+- Custom output have been change from select folder to save file dialog.
+
+#FIX
+- Fix the program not responding at startup for the fresh install computers.
+- Fix error when play media if file have not been found.
+- Fix MPC-HC video corruption for some people.
+- Fix HEVC software encoder return skip with FLAC audio.
+- Fix main path is different folder from main path in the project file.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 [ V=1.0.6648.35795 / API=2018.03.15.14.46.50 ]
 Date : 15/03/2018
 
