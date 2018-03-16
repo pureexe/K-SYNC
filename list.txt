@@ -36,7 +36,7 @@
 \codecs\filters\VSFilter\VSFilterMod.dll|0e99a8e563f3e4644ddddcad2f4232e4c8df08f1|False|
 \codecs\filters\VSFilter\XY-VSFilter.dll|f8c99b5f0ed3d89755d3a1048f1b60433c034c4a|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
-\languages\languages.zip|bb5948cf6c767d15efb8bedee40c9c132fbbc147|False|
+\languages\languages.zip|0fc8c5c097ac8722209b7eeaec50c12aa6559746|False|
 \redists\K-Lite_Codec_Pack_Mega.exe|7f68b3b00d67cd9690be2a08f5940e17148db048|False|
 \redists\klcp_mega_unattended.ini|7ec0435f185828f6bcd3e3e98038192906ad958e|False|
 \redists\MPC-HC_Installer.exe|6aaa8b2257917b3b16fdf667d72d1cc71c101581|True|
