@@ -33,7 +33,7 @@
 \codecs\filters\SVP\svpflow1.dll|997200dbd2c90f05da0753593357cb6bdb8a23b0|False|
 \codecs\filters\SVP\svpflow2.dll|af7875781bdf550a20da6d6a49637a34fad293d7|False|
 \codecs\filters\VSFilter\VSFilterMod.dll|0e99a8e563f3e4644ddddcad2f4232e4c8df08f1|False|
-\codecs\filters\VSFilter\XY-VSFilter.dll|f8c99b5f0ed3d89755d3a1048f1b60433c034c4a|False|
+\codecs\filters\VSFilter\XY-VSFilter.dll|f9bb64f68975e40fc1d33f81ce11dafb60e05498|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
 \languages\languages.zip|0fc8c5c097ac8722209b7eeaec50c12aa6559746|False|
 \redists\K-Lite_Codec_Pack_Mega.exe|1f13fc22ecc95652d101742b3c992bcc2c9fd84f|False|
