@@ -1,4 +1,4 @@
-\KonayukiPlus.exe|b2f7e1f8f2e202faf3feb07f04c4f61b29914914|False|
+\KonayukiPlus.exe|3d2ceeb1aeaa80bcc65e575c0f673719a05c5650|False|
 \KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
 \codecs\AviSynth.dll|e156010b40016ec8f089bbf501b443fb5afa9e41|False|
 \codecs\DevIL.dll|8898679a803b98725b6e79d93989bcc44a0b0e60|False|
@@ -16,7 +16,8 @@
 \codecs\filters\FFmpeg\ffms2.dll|91fd8fa55f333acdd7f9d14aab293d02aab3fb37|False|
 \codecs\filters\FFmpeg\ffms2.lib|537eac3323f3fd0016b61226ca235fe5d982db13|False|
 \codecs\filters\FFmpeg\ffmsindex.exe|52c43832d93de08123f13115a932ce7807e8ebbb|False|
-\codecs\filters\HQ\aWarpSharp.dll|436827d8f2b08e6446fc14f024221321368917d1|False|
+\codecs\filters\HDR\avsresize.dll|51264a86fa3054b75933d2c35419b716d9702ace|False|
+\codecs\filters\HQ\aWarpSharpMT.dll|16775fd250b27930f344a5f7df0c48dd2ce99663|False|
 \codecs\filters\HQ\KNLMeansCL.dll|57d42afcd8fbefd63ac9e2838d4b4e4fe3da4378|False|
 \codecs\filters\HQ\msharpen.dll|cf9ad842f3b0520679050142c55d814cd0268270|False|
 \codecs\filters\HQ\WarpSharp.dll|7f4c0a4a9d5cd02085215a761a27ba152fa36088|False|
@@ -34,7 +35,7 @@
 \codecs\filters\VSFilter\VSFilterMod.dll|6fa0984fcbef4a51920fc9eb8833694f0e23d9b5|False|
 \codecs\filters\VSFilter\XY-VSFilter.dll|f9bb64f68975e40fc1d33f81ce11dafb60e05498|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
-\languages\languages.zip|707a00c81d8148a715b973d014ed69c88e30ee74|False|
+\languages\languages.zip|1f9c96f4cf805438b74a70bb419f7606ce125808|False|
 \redists\K-Lite_Codec_Pack_Mega.exe|1f13fc22ecc95652d101742b3c992bcc2c9fd84f|False|
 \redists\klcp_mega_unattended.ini|0c66f7cf5c9eb49e32bfecadb1f5f6ca0eed8ebe|False|
 \redists\MPC-HC_Installer.exe|a7b90a4973ae53fe2abe19ce5f21d9c6de7ad0ec|True|
