@@ -37,5 +37,5 @@
 \languages\Fonts\FontReg.exe|a0e905f65016f2573c8069f8e0982f3192b3daa9|False|
 \languages\Fonts\TH Sarabun New.ttf|4559382f72ff9e1b6cd6689dd3a3583a41fc48aa|False|
 \redists\K-Lite_Codec_Pack_Mega.exe|876fd7e6688bdac9ba1bd802c335531e3ffa76d0|False|
-\redists\klcp_mega_unattended.ini|e43f6c666e46dd25a4bbad49775d06240a0e2743|False|
+\redists\klcp_mega_unattended.ini|1e00225fc7b1f2ecfed7764faebbd3c294ad2d70|False|
 \redists\MPC-HC_Installer.exe|6db622df138014fcbe49d398da79e302ba85a6aa|True|
