@@ -1,4 +1,4 @@
-\KonayukiPlus.exe|8f7ea71ac5a1dfbeedd92df92bbcc800ca0300d4|False|
+\KonayukiPlus.exe|96b289bde7cba4f44213307c5481d65934ce4b26|False|
 \KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
 \codecs\AviSynth.dll|4430a40003474136eae2abd6349cc4541956521a|False|
 \codecs\DevIL.dll|8898679a803b98725b6e79d93989bcc44a0b0e60|False|
@@ -33,9 +33,10 @@
 \codecs\filters\VSFilter\VSFilterMod.dll|c694db0d004af5718817c4371d59f5b38f5e4a7f|False|
 \codecs\filters\VSFilter\XY-VSFilter.dll|29b05c4bf3b04150065b4bb8906f59da9e96a2ba|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
+\ffindexs\Cache for ffindex|85729d797e5b1106c4f449e6b7fd796a1a4210f6|False|
 \languages\languages.zip|af44654d5b861c7e5c45ed3830c446cca3f06a9d|False|
 \languages\Fonts\FontReg.exe|a0e905f65016f2573c8069f8e0982f3192b3daa9|False|
 \languages\Fonts\TH Sarabun New.ttf|4559382f72ff9e1b6cd6689dd3a3583a41fc48aa|False|
-\redists\K-Lite_Codec_Pack_Mega.exe|876fd7e6688bdac9ba1bd802c335531e3ffa76d0|False|
-\redists\klcp_mega_unattended.ini|1e00225fc7b1f2ecfed7764faebbd3c294ad2d70|False|
-\redists\MPC-HC_Installer.exe|6db622df138014fcbe49d398da79e302ba85a6aa|True|
+\redists\K-Lite_Codec_Pack_Mega.exe|4d1e1e2f93daf7f552f23764a32e035275163b95|False|
+\redists\klcp_mega_unattended.ini|6f7261981c220b1faf03db02f4be30ea3f6ce825|False|
+\redists\MPC-HC_Installer.exe|69dd972650ffc721e3582c3c3fb89296f413254d|True|
