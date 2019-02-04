@@ -15,6 +15,9 @@
 \codecs\filters\FFmpeg\ffms2.lib|537eac3323f3fd0016b61226ca235fe5d982db13|False|
 \codecs\filters\FFmpeg\ffmsindex.exe|52c43832d93de08123f13115a932ce7807e8ebbb|False|
 \codecs\filters\HDR\avsresize.dll|c51fd8b0d9c12e9ea3e98eb465a782e32d1add49|False|
+\codecs\filters\HQ\aWarpSharpMT.dll|0562362074a3ed188e4dbfd2050642283fab3a8a|False|
+\codecs\filters\HQ\aWarpSharpMT_AVX.dll|bb8ce64dbbb8ad91b6013b2cf1fcad59db659f8a|False|
+\codecs\filters\HQ\aWarpSharpMT_AVX2.dll|c10a2c825374248aba173179d1a3e7a3f755cdbc|False|
 \codecs\filters\HQ\KNLMeansCL.dll|57d42afcd8fbefd63ac9e2838d4b4e4fe3da4378|False|
 \codecs\filters\HQ\msharpen.dll|cf9ad842f3b0520679050142c55d814cd0268270|False|
 \codecs\filters\MD5\AVS_MD5.dll|bdb6ce265e7f395b4849b04380fb7f7e1b093f74|False|
