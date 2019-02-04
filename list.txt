@@ -1,4 +1,4 @@
-\KonayukiPlus.exe|e10a21fe586b7caf4578618c6486c76cac903da1|False|
+\KonayukiPlus.exe|8ed380617d96b47b42a047016bff93fc4a663e44|False|
 \KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
 \codecs\AviSynth.dll|4430a40003474136eae2abd6349cc4541956521a|False|
 \codecs\DevIL.dll|8898679a803b98725b6e79d93989bcc44a0b0e60|False|
@@ -15,7 +15,6 @@
 \codecs\filters\FFmpeg\ffms2.lib|537eac3323f3fd0016b61226ca235fe5d982db13|False|
 \codecs\filters\FFmpeg\ffmsindex.exe|52c43832d93de08123f13115a932ce7807e8ebbb|False|
 \codecs\filters\HDR\avsresize.dll|c51fd8b0d9c12e9ea3e98eb465a782e32d1add49|False|
-\codecs\filters\HQ\aWarpSharpMT.dll|e59e8092c2d2d57ee48b31e9233fcadd223ac1fe|False|
 \codecs\filters\HQ\KNLMeansCL.dll|57d42afcd8fbefd63ac9e2838d4b4e4fe3da4378|False|
 \codecs\filters\HQ\msharpen.dll|cf9ad842f3b0520679050142c55d814cd0268270|False|
 \codecs\filters\MD5\AVS_MD5.dll|bdb6ce265e7f395b4849b04380fb7f7e1b093f74|False|
