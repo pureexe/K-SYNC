@@ -1,8 +1,8 @@
-\KonayukiPlus.exe|8ed380617d96b47b42a047016bff93fc4a663e44|False|
+\KonayukiPlus.exe|d7eaa4d3f08663c99646a25a224ee048fb5aced6|False|
 \KonayukiPlusLib.dll|0963859fd83d06546263a2bb2087b04a7b01496c|False|
 \codecs\AviSynth.dll|4430a40003474136eae2abd6349cc4541956521a|False|
 \codecs\DevIL.dll|8898679a803b98725b6e79d93989bcc44a0b0e60|False|
-\codecs\ffmpeg.exe|72cbf3d161fbbf94417c1eaca3ca37e917ea0119|False|
+\codecs\ffmpeg.exe|4806244db83cbf63fad86887971b379d7683da06|False|
 \codecs\MediaInfo.dll|919264cace31bed7d9132c3dfeada5dc76811409|False|
 \codecs\mpv-1.dll|0000dd9b1141df668b288a9f0e674dfcb053bbfc|False|
 \codecs\filters\Decomb.dll|70f9165f8c4e3b18d62b722e6d034414e99d7aa1|False|
@@ -35,10 +35,11 @@
 \codecs\filters\VSFilter\VSFilterMod.dll|c694db0d004af5718817c4371d59f5b38f5e4a7f|False|
 \codecs\filters\VSFilter\XY-VSFilter.dll|16a0e5a6186e38e1321d022d29e8112a55baf471|False|
 \codecs\licenses\licenses.zip|7c8de4b407a3e96dee5388a6c0ba7b1a533b4e4d|False|
-\languages\languages.zip|2afc3a2e82eaeebf19ebaf8a7f7ab6152ce1c371|False|
+\languages\languages.zip|f790306eb8872cc6b94c7ea0ce1994dc2e5e34d4|False|
 \languages\Fonts\FontReg.exe|a0e905f65016f2573c8069f8e0982f3192b3daa9|False|
 \languages\Fonts\TH Sarabun New.ttf|4559382f72ff9e1b6cd6689dd3a3583a41fc48aa|False|
-\redists\ffindex_Cleaner.exe|9ad221739a46432d74c8aec4f58b1b95caabcd82|True|
-\redists\K-Lite_Codec_Pack_Mega.exe|7afacfd9560c0c7a85bd77a378ee5df298c345bc|False|
-\redists\klcp_mega_unattended.ini|10437f19076faf4f366fa9e72ff62bb1bfa14ff6|False|
-\redists\MPC-HC_Installer.exe|dec441f5fa2dc7b4e2651b0f906db45f02a9834c|True|
+\redists\Codec_Updater.exe|d590e795705579fe5fcfb43208d35fc082710905|True|
+\redists\ffindex_Cleaner.exe|5381b0911bfa781e6297d94f0d23a45c4111bb75|True|
+\redists\K-Lite_Codec_Pack_Mega.exe|04a3ed6b86bc3a578842f74b7638554f0e464b73|False|
+\redists\Without_Player.ini|97195347059adc71d095398f7818d4754cd2c37a|False|
+\redists\With_Player.ini|22ab3964df89226872267a196e4df5dbb8ff264d|False|
