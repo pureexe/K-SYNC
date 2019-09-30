@@ -39,7 +39,7 @@
 \languages\Fonts\FontReg.exe|a0e905f65016f2573c8069f8e0982f3192b3daa9|False|
 \languages\Fonts\TH Sarabun New.ttf|4559382f72ff9e1b6cd6689dd3a3583a41fc48aa|False|
 \redists\Codec_Updater.exe|84e690fbec1902cd770ba3ccb5d06963511d86e9|True|
-\redists\ffindex_Cleaner.exe|5381b0911bfa781e6297d94f0d23a45c4111bb75|True|
+\redists\ffindex_Cleaner.exe|bb9179e36d2c5eba559148da3f5d44d39a70e74b|True|
 \redists\K-Lite_Codec_Pack_Mega.exe|d1e64ea78630736d880e13da190011f08a6ba7f7|False|
 \redists\K-Lite_Codec_Pack_Update.exe|216eace882ef689b424649b00658117297dac672|False|
 \redists\Without_Player.ini|6f7a0543d4df77545f11217083c7b02dd2ec2d33|False|
