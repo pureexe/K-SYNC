@@ -36,7 +36,7 @@
 \codecs\filters\VSFilter\XY-VSFilter.dll|d879bec1b85b690757c4696d707c3b65ec7d4bde|False|
 \codecs\licenses\licenses.zip|e9cca6c236f2fe74aa7e501c3fc5e7cad7c761e0|False|
 \codecs\licenses\runtime.zip|da65307b4f791ed577481593f25be6503b3a5a2f|False|
-\languages\languages.zip|034d5e08bd0bf18b48e17cdcc507e69538642255|False|
+\languages\languages.zip|02d9dbb3e80eabdb62f239f487ffb92a9ccbb604|False|
 \languages\Fonts\FontReg.exe|a0e905f65016f2573c8069f8e0982f3192b3daa9|False|
 \languages\Fonts\TH Sarabun New.ttf|4559382f72ff9e1b6cd6689dd3a3583a41fc48aa|False|
 \redists\Codec_Updater.exe|8017a714ed02b3795f6611038312f3da1ec240ee|True|
