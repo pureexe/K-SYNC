@@ -18,7 +18,7 @@
 \codecs\filters\HQ\aWarpSharpMT.dll|8f7ad1163c1aeff0080801fba98339ac3ca7a930|False|
 \codecs\filters\HQ\aWarpSharpMT_AVX.dll|035ebc0bf447678f3e93ca8251bc0c29bd721452|False|
 \codecs\filters\HQ\aWarpSharpMT_AVX2.dll|bd159d8ba589a0e2dcb2b4eb929228119fb1cb34|False|
-\codecs\filters\HQ\KNLMeansCL.dll|57d42afcd8fbefd63ac9e2838d4b4e4fe3da4378|False|
+\codecs\filters\HQ\KNLMeansCL.dll|f1b58674a7bae9910a60e9f1b5b1d0306fdfdd12|False|
 \codecs\filters\HQ\msharpen.dll|cf9ad842f3b0520679050142c55d814cd0268270|False|
 \codecs\filters\MD5\AVS_MD5.dll|bdb6ce265e7f395b4849b04380fb7f7e1b093f74|False|
 \codecs\filters\PGS\msvcp100.dll|a3daf85194d0b149a91e13ba83a5e4a8968427ac|False|
