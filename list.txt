@@ -11,8 +11,9 @@
 \codecs\filters\Band\gradfun2db.dll|4f2be8fce45b950adb68078a9b53798c8075a6aa|False|
 \codecs\filters\Band\masktools2.dll|98bcb61add216d72e09ea85299aa9af83081c29d|False|
 \codecs\filters\Band\RgTools.dll|15cf2569aaf913bd0918048eed8712b3ae27b756|False|
-\codecs\filters\FFmpeg\ffms2.dll|7b94879c4798ae74d3a191037f7f1e554ed876a8|False|
-\codecs\filters\FFmpeg\ffmsindex.exe|a966ca19b998dde0431cfd22340f46b57b26cc8b|False|
+\codecs\filters\FFmpeg\ffms2.dll|91fd8fa55f333acdd7f9d14aab293d02aab3fb37|False|
+\codecs\filters\FFmpeg\ffms2.lib|537eac3323f3fd0016b61226ca235fe5d982db13|False|
+\codecs\filters\FFmpeg\ffmsindex.exe|52c43832d93de08123f13115a932ce7807e8ebbb|False|
 \codecs\filters\HDR\avsresize.dll|c51fd8b0d9c12e9ea3e98eb465a782e32d1add49|False|
 \codecs\filters\HQ\aWarpSharpMT.dll|8f7ad1163c1aeff0080801fba98339ac3ca7a930|False|
 \codecs\filters\HQ\aWarpSharpMT_AVX.dll|035ebc0bf447678f3e93ca8251bc0c29bd721452|False|
